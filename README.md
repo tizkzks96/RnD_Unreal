@@ -1,6 +1,6 @@
 # RnD_Unreal
 
-## DLC 사용법
+## [DLC 사용법](https://www.youtube.com/watch?v=ndHNdUSRpho&ab_channel=Unreal4Pro) 
 1. [Plugin 세팅](#plugin-세팅)  
 2. [콘텐츠 오브젝트 생성](#콘텐츠-오브젝트-생성)  
 3. [맵(Level) 생성](#맵level-생성)  
@@ -9,7 +9,7 @@
 
 ---------------
 
-### plugin 세팅 [원본 영상](https://www.youtube.com/watch?v=ndHNdUSRpho&ab_channel=Unreal4Pro) 
+### plugin 세팅
 1. dlc는 plugin 기능이다.  
 2. plugin 탭을 오픈  
 ![image](https://user-images.githubusercontent.com/11674965/162155174-5046048e-7e62-4447-8973-66fe41eb243c.png)  
