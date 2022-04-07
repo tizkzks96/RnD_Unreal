@@ -9,7 +9,7 @@
 
 ---------------
 
-### plugin 세팅  
+### plugin 세팅 [원본 영상](https://www.youtube.com/watch?v=ndHNdUSRpho&ab_channel=Unreal4Pro) 
 1. dlc는 plugin 기능이다.  
 2. plugin 탭을 오픈  
 ![image](https://user-images.githubusercontent.com/11674965/162155174-5046048e-7e62-4447-8973-66fe41eb243c.png)  
